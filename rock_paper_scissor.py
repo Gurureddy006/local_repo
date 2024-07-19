@@ -1,3 +1,4 @@
+# Rock Paper scissor
 import random
 
 def check(comp, user):
