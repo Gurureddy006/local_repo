@@ -26,3 +26,5 @@ elif (score == -1):
     print("Comp win")
 else:
     print("You win")
+
+print("Game is about to start")
