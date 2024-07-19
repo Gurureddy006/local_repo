@@ -27,4 +27,6 @@ elif (score == -1):
 else:
     print("You win")
 
+
 print("Game is about to start")
+print("End of the game")
