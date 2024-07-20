@@ -16,6 +16,7 @@ def check(comp, user):
 comp = random.randint(0,2)
 user = int(input("0 for Rock, 1 for Paper, 2 for Scissor :\n"))
 
+print("Game is about to start")
 score = check(comp, user)
 
 print("You :",user)
@@ -28,5 +29,4 @@ else:
     print("You win")
 
 
-print("Game is about to start")
 print("End of the game")
